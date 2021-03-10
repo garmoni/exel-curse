@@ -1,2 +1,2 @@
-# exel-curse
+# exel-course
 JS code
